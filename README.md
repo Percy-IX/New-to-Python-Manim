@@ -1,2 +1,3 @@
-# New-to-Python-Manim
-First Repo
+# Using-Manimce
+
+Using Manice to create lessons for south african high school mathematics
